@@ -1,0 +1,40 @@
+{
+  "sensors": [
+    {
+      "humidity": 95,
+      "temperature": 31.22,
+      "timestamp": "19:48:23",
+      "id": 1
+    },
+    {
+      "humidity": 95,
+      "temperature": 31.29999924,
+      "timestamp": "14:11:21",
+      "id": 2
+    },
+    {
+      "humidity": 95,
+      "temperature": 31.20000076,
+      "timestamp": "14:11:36",
+      "id": 3
+    },
+    {
+      "humidity": 95,
+      "temperature": 31.29999924,
+      "timestamp": "14:11:51",
+      "id": 4
+    },
+    {
+      "humidity": 95,
+      "temperature": 31.29999924,
+      "timestamp": "14:12:07",
+      "id": 5
+    },
+    {
+      "humidity": 95,
+      "temperature": 31.29999924,
+      "timestamp": "14:12:22",
+      "id": 6
+    }
+  ]
+}
